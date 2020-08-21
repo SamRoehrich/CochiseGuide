@@ -1,3 +1,4 @@
+import "mapbox-gl/dist/mapbox-gl.css";
 import { UserProvider, useFetchUser } from "../utils/user.js";
 
 function MyApp({ Component, pageProps }) {
